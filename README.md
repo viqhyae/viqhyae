@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Languages + Database Management System</h4>
+<h4 align="left">Languages</h4>
 
 ###
 
